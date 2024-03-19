@@ -1,4 +1,4 @@
-# Match Score Prediction Model
+# Math Score Prediction Model
 
 This repository contains code for a machine learning model that predicts the likelihood of a math score based on various metrics. The model is trained on a dataset containing information about students, including factors such as `gender`, `writing score`, `reading score`, etc.
 
